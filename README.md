@@ -49,7 +49,7 @@ or in vscode:
 python -m streamlit run main.py
 ```
 
-2.The web app will open in your browser where you can ask questions
+2. The web app will open in your browser where you can ask questions
 
 ## Sample Questions
   - How many total t shirts are left in total in stock?
