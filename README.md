@@ -8,7 +8,13 @@ will may ask questions such as,
 - How much sales our store will generate if we can sell all extra-small size t shirts after applying discounts?
 The system is intelligent enough to generate accurate queries for given question and execute them on MySQL database
 
-![](atliq_tees.png)
+
+<img width="895" height="250" alt="Atliq-t_shirts_1_question" src="https://github.com/user-attachments/assets/e3bfb182-d844-4386-b8ec-81dc7a7c91f4" />
+
+MYSQL Query:
+
+<img width="751" height="196" alt="Atliq-t_shirts_2_sql" src="https://github.com/user-attachments/assets/70ebe623-337e-4d83-9765-99e318f7b804" />
+
 
 ## Project Highlights
 
