@@ -9,11 +9,21 @@ will may ask questions such as,
 The system is intelligent enough to generate accurate queries for given question and execute them on MySQL database
 
 
+Example 1:
+
 <img width="895" height="250" alt="Atliq-t_shirts_1_question" src="https://github.com/user-attachments/assets/e3bfb182-d844-4386-b8ec-81dc7a7c91f4" />
 
 MYSQL Query:
 
 <img width="751" height="196" alt="Atliq-t_shirts_2_sql" src="https://github.com/user-attachments/assets/70ebe623-337e-4d83-9765-99e318f7b804" />
+
+Example 2:
+
+<img width="951" height="652" alt="image" src="https://github.com/user-attachments/assets/12017aac-bea6-4310-a33c-4d4f7027b927" />
+
+
+
+
 
 
 ## Project Highlights
